@@ -1,8 +1,6 @@
 # Webcam-Barcode-Scanner requirements
 # Usage: pip install -r requirements.txt
 
-opencv-python>=4.1.1
-torch>=1.7.0 
-torchvision>=0.8.1
-pandas>=1.1.4
+torch
+opencv-python-headless
 pyzbar
