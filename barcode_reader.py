@@ -3,7 +3,7 @@ import cv2
 from pyzbar import pyzbar 
 
 device = torch.device('cpu') 
-model = torch.hub.load('ultralytics/yolov5', 'custom',path='model.pt').to(device)
+model = torch.hub.load('ultralytics/yolov5', 'custom',path='barcode_detection.pt').to(device)
 
 cap = cv2.VideoCapture(1)
 while cap.isOpened():
