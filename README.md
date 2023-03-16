@@ -1,7 +1,7 @@
 # Webcam-Barcode-Scanner
 Barcode detection with Deep Learning (YOLOv5) and decoding barcode using Pyzbar in Python
 
-The study was a collaborative effort involving [Ng-Tuan-Anh](https://github.com/Ng-Tuan-Anh) and [TaThanh200320](https://github.com/TaThanh200320)
+🚀🚀🚀The study was a collaborative effort involving [Ng-Tuan-Anh](https://github.com/Ng-Tuan-Anh) and [TaThanh200320](https://github.com/TaThanh200320)
 
 ## Installation
 Clone repo and install requirements.txt
