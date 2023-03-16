@@ -14,7 +14,7 @@ pip install -r requirements.txt
 python barcode_reader.py
 ```
 
-#Training
+##Training
 1. Data preparation
 - Download the images (train, val, test) and labels for our [BarcodeEpu2](https://doi.org/10.5281/zenodo.7465864) dataset
 2. Train
