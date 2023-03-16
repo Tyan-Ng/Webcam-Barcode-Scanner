@@ -16,6 +16,7 @@ python barcode_reader.py
 
 # Training
 **1. Data preparation**
+
 Download the images (train, val, test) and labels for our [BarcodeEpu2](https://doi.org/10.5281/zenodo.7465864) dataset
 Our dataset contains over 3000 barcode images that have been labeled in the YOLO format, making it easy to use for training and testing computer vision models that can detect and decode barcodes.
 
