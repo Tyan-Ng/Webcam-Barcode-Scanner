@@ -8,5 +8,8 @@ git clone https://github.com/Ng-Tuan-Anh/Webcam-Barcode-Scanner
 cd Webcam-Barcode-Scanner
 pip install -r requirements.txt
 ```
+
 ## Usage
+```bash
 python barcode_reader.py
+```
