@@ -21,4 +21,4 @@ python barcode_reader.py
 **2. Train**
 - See the Training section of our notebook 
 ![alt text](https://raw.githubusercontent.com/Ng-Tuan-Anh/Webcam-Barcode-Scanner/main/results.png)
-Relevant data curves of experimental visualization results
+Here are the relevant data curves that visualize the experimental results of our model.
