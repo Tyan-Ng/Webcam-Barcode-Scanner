@@ -17,6 +17,9 @@ pip install -r requirements.txt
 ```bash
 python barcode_reader.py
 ```
+<p align="center">
+<img src="https://github.com/Ng-Tuan-Anh/Webcam-Barcode-Scanner/blob/main/barcode_reader.png" width="500" height="394" />
+</p>
 
 ## Training
 **1. Data preparation**
