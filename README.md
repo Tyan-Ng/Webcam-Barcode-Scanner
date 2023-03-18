@@ -2,6 +2,7 @@
 Barcode detection with Deep Learning (YOLO) and decoding barcode using Pyzbar in Python
 
 At present, our barcode reader project utilizes the YOLOv5 model. Going forward, we intend to provide additional resources in the form of notebooks detailing how to train barcode detection YOLO models and barcode reading programs for each subsequent model that we [release](https://github.com/Ng-Tuan-Anh/Webcam-Barcode-Scanner/releases).
+
 🚀🚀🚀The study was a collaborative effort involving [Ng-Tuan-Anh](https://github.com/Ng-Tuan-Anh) and [TaThanh200320](https://github.com/TaThanh200320)
 
 ## Installation
