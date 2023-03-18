@@ -5,6 +5,10 @@ At present, our barcode reader project utilizes the YOLOv5 model. Going forward,
 
 🚀🚀🚀The study was a collaborative effort involving [Ng-Tuan-Anh](https://github.com/Ng-Tuan-Anh) and [TaThanh200320](https://github.com/TaThanh200320)
 
+<p align="center">
+<img src="https://github.com/Ng-Tuan-Anh/Webcam-Barcode-Scanner/blob/main/barcode_reader.png" width="500" height="394" />
+</p>
+
 ## Installation
 Clone repo and install requirements.txt
 ```bash
@@ -17,9 +21,6 @@ pip install -r requirements.txt
 ```bash
 python barcode_reader.py
 ```
-<p align="center">
-<img src="https://github.com/Ng-Tuan-Anh/Webcam-Barcode-Scanner/blob/main/barcode_reader.png" width="500" height="394" />
-</p>
 
 ## Training
 **1. Data preparation**
