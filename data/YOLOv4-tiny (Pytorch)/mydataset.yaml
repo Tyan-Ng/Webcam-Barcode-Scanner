@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/datav5/images/train
+val: /content/drive/MyDrive/datav5/images/val
+test: /content/drive/MyDrive/datav5/images/test
+is_coco: False
+nc: 1
+names: ['barcode']
