@@ -26,4 +26,4 @@ Our dataset contains over 3000 barcode images that have been labeled in the YOLO
 
 Our training is based on the YOLOv5 model (Check out our [notebook](https://github.com/Ng-Tuan-Anh/Webcam-Barcode-Scanner/blob/main/train.ipynb) to learn how to train a model)
 
-The barcode detection model was trained in several other versions of YOLO (see)
+The barcode detection model was trained in several other versions of YOLO ([see](https://github.com/Ng-Tuan-Anh/Webcam-Barcode-Scanner/releases))
