@@ -1,18 +1,18 @@
 # Webcam-Barcode-Scanner
 Barcode detection with Deep Learning (YOLO) and decoding barcode using Pyzbar in Python
 
-Our barcode reader project currently uses YOLOv5 model. We plan to release notebooks with instructions on training YOLO models for barcode detection and reading for our upcoming models that we [release](https://github.com/Ng-Tuan-Anh/Webcam-Barcode-Scanner/releases/tag/Barcode-detection-models).
+Our barcode reader project currently uses YOLOv5 model. We plan to release notebooks with instructions on training YOLO models for barcode detection and reading for our upcoming models that we [release](https://github.com/Tyan-Ng/Webcam-Barcode-Scanner/releases/tag/Barcode-detection-models).
 
-🚀🚀🚀The study was a collaborative effort involving [Ng-Tuan-Anh](https://github.com/Ng-Tuan-Anh) and [TaThanh200320](https://github.com/TaThanh200320)
+🚀🚀🚀The study was a collaborative effort involving [Tyan-Ng](https://github.com/Tyan-Ng) and [TaThanh200320](https://github.com/TaThanh200320)
 
 <p align="center">
-<img src="https://github.com/Ng-Tuan-Anh/Webcam-Barcode-Scanner/blob/main/barcode_reader.png" width="500" height="394" />
+<img src="https://github.com/Tyan-Ng/Webcam-Barcode-Scanner/blob/main/barcode_reader.png" width="500" height="394" />
 </p>
 
 ## Installation
 Clone repo and install requirements.txt
 ```bash
-git clone https://github.com/Ng-Tuan-Anh/Webcam-Barcode-Scanner
+git clone https://github.com/Tyan-Ng/Webcam-Barcode-Scanner
 cd Webcam-Barcode-Scanner
 pip install -r requirements.txt
 ```
@@ -30,6 +30,6 @@ Our dataset contains over 3000 barcode images that have been labeled in the YOLO
 
 **2. Train**
 
-Our training is based on the YOLOv5 model (Check out our [notebook](https://github.com/Ng-Tuan-Anh/Webcam-Barcode-Scanner/blob/main/train.ipynb) to learn how to train a model)
+Our training is based on the YOLOv5 model (Check out our [notebook](https://github.com/Tyan-Ng/Webcam-Barcode-Scanner/blob/main/train.ipynb) to learn how to train a model)
 
-The barcode detection model was trained in several other versions of YOLO ([see](https://github.com/Ng-Tuan-Anh/Webcam-Barcode-Scanner/releases/tag/Barcode-detection-models))
+The barcode detection model was trained in several other versions of YOLO ([see](https://github.com/Tyan-Ng/Webcam-Barcode-Scanner/releases/tag/Barcode-detection-models))
