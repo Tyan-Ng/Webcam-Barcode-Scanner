@@ -4,3 +4,4 @@
 torch
 opencv-python-headless
 pyzbar
+ultralytics
