@@ -1,7 +1,8 @@
 # Webcam-Barcode-Scanner
 Barcode detection with Deep Learning (YOLO) and decoding barcode using Pyzbar in Python
+Our repo is compatible with YOLO versions V3, V4, V5, and V7. You can check out the models we successfully trained [here](https://github.com/Tyan-Ng/Webcam-Barcode-Scanner/releases/tag/Barcode-detection-models) using our collected [dataset](https://doi.org/10.5281/zenodo.7465864)
 
-Our barcode reader project currently uses YOLOv5 model. We plan to release notebooks with instructions on training YOLO models for barcode detection and reading for our upcoming models that we [release](https://github.com/Tyan-Ng/Webcam-Barcode-Scanner/releases/tag/Barcode-detection-models).
+In the training notebook, we focus exclusively on YOLOv5. For other versions, please refer to the official repositories provided by their respective authors.
 
 🚀🚀🚀The study was a collaborative effort involving [Tyan-Ng](https://github.com/Tyan-Ng) and [TaThanh200320](https://github.com/TaThanh200320)
 
@@ -16,7 +17,7 @@ git clone https://github.com/Tyan-Ng/Webcam-Barcode-Scanner
 cd Webcam-Barcode-Scanner
 pip install -r requirements.txt
 ```
-
+Visit the [**pytorch**](https://pytorch.org/get-started/locally/) homepage to install the torch library suitable for your hardware
 ## Usage
 ```bash
 python barcode_reader.py
