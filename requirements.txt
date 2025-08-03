@@ -2,6 +2,8 @@
 # Usage: pip install -r requirements.txt
 
 torch
-opencv-python-headless
+opencv-python
+seaborn
 pyzbar
 ultralytics
+
